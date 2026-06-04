@@ -99,7 +99,7 @@ El sistema responderá con un `docker-compose.yml` generado por IA listo para us
  ┣ 📄 README.md                # Este fichero
  ┗ 📄 docs/                    # Capturas de pantalla y documentación
 ```
-
+<img width="1600" height="784" alt="flujon8n" src="https://github.com/user-attachments/assets/75647e4e-84e5-4b5f-96ef-5369f10cf3ad" />
 ---
 
 ## 🛠️ Tecnologías utilizadas
