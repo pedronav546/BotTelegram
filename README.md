@@ -13,6 +13,3 @@
 curl -X POST http://localhost:5678/webhook/generar-entorno \
   -H "Content-Type: application/json" \
   -d '{"mensaje": "quiero un entorno Python con PostgreSQL"}'
-
-## Capturas de pantalla
-[añade capturas de n8n y de la respuesta del webhook]
